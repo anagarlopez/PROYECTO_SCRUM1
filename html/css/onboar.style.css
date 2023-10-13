@@ -1,0 +1,72 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    
+  }
+  
+  .header{
+     background-image: url(./You\'re\ free\ to\ be\ different.png);
+     width: 1500px;
+     height: 500px;
+  }
+  
+  .main{
+
+    
+     background-image: url(./You\'re\ free\ to\ be\ different\ \(2\).png);
+     width: 1500px;
+     height: 500px;
+     
+
+     
+     
+  }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  footer{
+      padding: 2%;
+      margin-left: 5%;
+      margin-right: 5%;
+      margin-top: 50%;
+      background-color: #BB0E95;
+  }
+  .text-color{
+      text-align: center;
+      color: white;
+  
+  }
+  
