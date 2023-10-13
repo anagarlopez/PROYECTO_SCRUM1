@@ -4,27 +4,42 @@
     
   }
   
-  .header{
+  header{
      background-image: url(./You\'re\ free\ to\ be\ different.png);
      width: 1500px;
      height: 500px;
   }
-  
-  .main{
 
-    
+  .banner{
      background-image: url(./You\'re\ free\ to\ be\ different\ \(2\).png);
      width: 1500px;
      height: 500px;
-     
+     }
 
-     
-     
+
+  .box {
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    }
+  
+  #miembro{
+    align-items: center;
+    border: 2px solid black;
+    width: 1300px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  img {
+    float: left;
+    height: 15vh;
+    display: inline;
+    padding: 1vh 3vh;
   }
   
-  
-  
-
 
 
 
