@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+header {
+  background-image: url("../../src/images/You're\ free\ to\ be\ different.png");
+  width: 100%;
+  height: 500px;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.banner {
+  background-image: url("../../src/images/You're\ free\ to\ be\ different\ \(2\).png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 90%;
+  height: 500px;
+}
+
+.cards-box {
+  margin-left: 20%;
+  margin-right: 20%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.perfil,
+.profiles {
+  margin-top: 10%;
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.card {
+  background-color: #817ac6;
+  display: flex;
+  border: 1px solid black;
+  margin-bottom: 5%;
+  padding: 5px 10px;
+  align-items: center;
+}
+.tools {
+  background-color: #817ac6;
+  font-family: "Indie Flower", cursive;
+  font-size: x-large;
+  text-transform: capitalize;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  margin-bottom: 5%;
+  padding: 5px 10px;
+  width: 100%;
+  height: 200px;
+}
+.tools h2 {
+  font-weight: 100;
+  color: whitesmoke;
+  margin-bottom: 20px;
+}
+ul {
+  list-style: none;
+  display: flex;
+  width: 90%;
+  height: 100%;
+  justify-content: space-between;
+}
+
+li img {
+  height: 40px;
+}
+
+.info {
+  font-family: "Indie Flower", cursive;
+  font-size: xx-large;
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  text-transform: capitalize;
+}
+
+img {
+  height: 15vh;
+  display: inline;
+  margin-right: 20px;
+}
+.tools {
+  display: flex;
+}
+
+footer {
+  padding: 2%;
+  margin:0 5%;
+  background-color: #bb0e95;
+}
+.text-color {
+  text-align: center;
+  color: white;
+}
