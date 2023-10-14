@@ -5,7 +5,7 @@
 }
 
 header {
-   background-image: url(./You\'re\ free\ to\ be\ different.png);
+   background-image: url("../../src/images/You\'re\ free\ to\ be\ different.png");
    width: 1500px;
    height: 500px;
 }
@@ -17,7 +17,7 @@ body {
 .form-login {
     width: 400px;
     height: 500px;
-    background: pink;
+    background-color: #817AC6;
     margin: auto;
     margin-top: 200px;
     box-shadow: 7px 13px 37px #000;
